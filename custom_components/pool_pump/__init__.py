@@ -1,6 +1,6 @@
 """
 Custom integration to integrate a Pool Pump Manager with Home Assistant.
-
+z
 For more details about this integration, please refer to
 https://github.com/oncleben31/ha-pool_pump
 """
